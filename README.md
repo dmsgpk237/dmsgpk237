@@ -1,8 +1,10 @@
 <!--메인 이미지--->
 <h3 align="center">✨ WELCOME TO EUNHYE WORLD ✨</h3>
-<img src="https://mblogvideo-phinf.pstatic.net/MjAyNDA1MTBfMjQ2/MDAxNzE1MzMxNjU4NTEy.opANV8Iw4GksY_5fa1eS0zxpWGMpf4m2WO8Ra5gSbSYg.MybYh4qaUkT_mCcusC7ow8mzeEWXjKZ6RT5gTTGIET8g.GIF/welcome_to.gif?type=mp4w800" />&nbsp
-
+<div align="center">
+  <img src="https://mblogvideo-phinf.pstatic.net/MjAyNDA1MTBfMjQ2/MDAxNzE1MzMxNjU4NTEy.opANV8Iw4GksY_5fa1eS0zxpWGMpf4m2WO8Ra5gSbSYg.MybYh4qaUkT_mCcusC7ow8mzeEWXjKZ6RT5gTTGIET8g.GIF/welcome_to.gif?type=mp4w800"/>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsgpk237&show_icons=true&theme=radical)
+</div>
 
 
 <!--타이틀 부분-->
