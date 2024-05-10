@@ -1,6 +1,4 @@
-
-![GIF]([https://mblogvideo-phinf.pstatic.net/MjAyNDA1MTBfMjQ2/MDAxNzE1MzMxNjU4NTEy.opANV8Iw4GksY_5fa1eS0zxpWGMpf4m2WO8Ra5gSbSYg.MybYh4qaUkT_mCcusC7ow8mzeEWXjKZ6RT5gTTGIET8g.GIF/welcome_to.gif?type=mp4w800](https://blog.naver.com/PostView.naver?blogId=rcnkuh&Redirect=View&logNo=223442697643&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3013#) “권은혜 월드에 오신 걸 환영합니다”)
-
+[![동영상]([http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE](https://mblogvideo-phinf.pstatic.net/MjAyNDA1MTBfMjQ2/MDAxNzE1MzMxNjU4NTEy.opANV8Iw4GksY_5fa1eS0zxpWGMpf4m2WO8Ra5gSbSYg.MybYh4qaUkT_mCcusC7ow8mzeEWXjKZ6RT5gTTGIET8g.GIF/welcome_to.gif?type=mp4w800))]("권은혜 월드에 오신 걸 환영합니다")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsgpk237&show_icons=true&theme=radical)
 
