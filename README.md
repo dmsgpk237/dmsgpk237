@@ -1,7 +1,4 @@
-
-
-![myprofiles](https://github-readme-stats.vercel.app/api?dmsgpk237=anuraghazra&show_icons=true&theme=radical)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=wihte)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsgpk237&show_icons=true&theme=radical)
 
 <!--타이틀 부분-->
 <div align="center">
